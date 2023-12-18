@@ -1,6 +1,6 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 13.12.2023
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,14 +34,18 @@
 ## OUTPUT :
 
 ![image](https://github.com/dhanamoni/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629757/fbada26f-215d-4bfa-a4a5-158f42bbd3da)
-
-
+![image](https://github.com/dhanamoni/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629757/cd1053a3-2728-4cdd-9493-d633d59645a6)
+![image](https://github.com/dhanamoni/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629757/c7929f28-905f-4dbd-9c7f-9756c9f7d937)
+![image](https://github.com/dhanamoni/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629757/09a1ac69-8670-48cf-b309-06330f2acecf)
 
 
 ## Output:
+![image](https://github.com/dhanamoni/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629757/8547aa1e-9451-470a-8816-7a94cd24ac62)
+![image](https://github.com/dhanamoni/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629757/55434002-ada3-4f63-902c-85b3d5b57c49)
 
-### Name:
-### Register Number:
+
+### Name:MONIKA D
+### Register Number:23013746
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
