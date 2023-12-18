@@ -35,6 +35,9 @@
 
 ![image](https://github.com/dhanamoni/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629757/fbada26f-215d-4bfa-a4a5-158f42bbd3da)
 
+
+
+
 ## Output:
 
 ### Name:
